@@ -398,7 +398,7 @@ div.tags_tech span:hover {
 
 /* Seção do Contato */
 
-section#contato {
+footer#contato {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -408,22 +408,22 @@ section#contato {
     color: #f1f0eb;
 }
 
-section#contato div.hero-content h1 {
+footer#contato div.hero-content h1 {
     color: #ff0000;
     margin-bottom: 40px;
 }
 
-section#contato div.hero-content p {
+footer#contato div.hero-content p {
     line-height: 1.6;
 }
 
-section#contato div.hero-content div.btns-contato {
+footer#contato div.hero-content div.btns-contato {
     display: flex;
     margin: 20px 0;
 }
 
 
-section#contato div.hero-content a.btn-action {
+footer#contato div.hero-content a.btn-action {
     padding: 8px 12px;
     border: 1px solid rgba(0, 0, 0, 0.06);
     cursor: pointer;
@@ -438,7 +438,7 @@ section#contato div.hero-content a.btn-action {
     transition: all .2s ease;
 }
 
-section#contato div.hero-content a.btn-action:hover {
+footer#contato div.hero-content a.btn-action:hover {
     color: #ff0000;
 }
 /* 
