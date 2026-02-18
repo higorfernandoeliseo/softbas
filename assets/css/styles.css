@@ -548,12 +548,12 @@ footer#contato div.hero-content a.btn-action:hover {
         padding: 30px;
     }
 
-    section#contato div.hero-content div.btns-contato {
+    footer#contato div.hero-content div.btns-contato {
         display: flex;
         flex-direction: column;
     }
 
-    section#contato div.hero-content a.btn-action {
+    footer#contato div.hero-content a.btn-action {
         margin: 7px 0;
     }
 
