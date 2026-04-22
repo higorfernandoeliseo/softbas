@@ -41,7 +41,7 @@ function typeWriter(elemento) {
 
 const texto = document.querySelector('.textoHero');
 
-typeWriter(texto);
+//typeWriter(texto);
 
 btnMobile.addEventListener('click', toggleMenu);
 btnMobile.addEventListener('touchstart', toggleMenu);
